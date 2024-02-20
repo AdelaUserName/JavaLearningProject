@@ -29,6 +29,7 @@ public class ExecutionService {
         System.out.println("Age obiect Ion: " + ionCustomer.getAge());
         System.out.println("Email obiect Ion: " + ionCustomer.getEmail());
 
+
         ionCustomer.setName("Ion Brotacel");
         ionCustomer.setAge(1257);
         ionCustomer.setEmail("IonBrotacel@gmail.com");
